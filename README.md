@@ -5,7 +5,7 @@ FLARQuantLib is a dynamic Quantitative Finance Toolkit crafted for the evolving 
 
 Current Features:
 
-Data Downloading Module: Access financial market data from diverse sources to fuel analytical endeavors. Flar_Data_Source_Kit.py
+Data Downloading Module: Flar_Data_Source_Kit.py - Access financial market data from diverse sources to fuel analytical endeavors. 
 
 Technical Indicators Module: Generate tradings signal based on popular technical analysis indicators.
 
