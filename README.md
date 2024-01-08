@@ -7,7 +7,7 @@ Current Features:
 
 Data Downloading Module: Flar_Data_Source_Kit.py - Access financial market data from diverse sources to fuel analytical endeavors. 
 
-Technical Indicators Module: Generate tradings signal based on popular technical analysis indicators.
+Technical Indicators Module: https://github.com/eduardohoc/FLAR_Quant_Lib/blob/main/Technical_Indicators.py Generate tradings signal based on popular technical analysis indicators.
 
 Quantitative Functions Module: Utilize a suite of quantitative functions for in-depth analysis and actionable insights.
 
