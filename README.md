@@ -7,9 +7,11 @@ Current Features:
 
 Data Downloading Module: Access financial market data from diverse sources to fuel analytical endeavors.
 
-Backtesting Module: Simulate and evaluate trading strategy performance using historical data, refining investment approaches.
+Technical Indicators Module: Generate tradings signal based on popular technical analysis indicators.
 
 Quantitative Functions Module: Utilize a suite of quantitative functions for in-depth analysis and actionable insights.
+
+Backtesting Module: Simulate and evaluate trading strategy performance using historical data, refining investment approaches.
 
 Asset Allocation Module: Optimize portfolio asset allocation based on specified criteria, enhancing decision-making.
 
