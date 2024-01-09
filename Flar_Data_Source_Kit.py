@@ -85,4 +85,7 @@ def get_data(list1, list2):
     except requests.exceptions.RequestException as e:
         return f"Connection error: {e}"
     
+## How to ask for a time series:   
+##ids=['US10YT=RR']
+##fields =['TR.BIDPRICE(SDate=0,EDate=-10,Frq=D).Date','TR.BIDPRICE(SDate=0,EDate=-10,Frq=D)']
 
