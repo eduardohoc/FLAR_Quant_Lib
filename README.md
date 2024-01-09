@@ -13,7 +13,7 @@ Quantitative Functions Module: Utilize a suite of quantitative functions for in-
 
 Backtesting Module: Simulate and evaluate trading strategy performance using historical data, refining investment approaches.
 
-Asset Allocation Module: Optimize portfolio asset allocation based on specified criteria, enhancing decision-making.
+Portfolio Construction Module: Optimize portfolio asset allocation based on specified criteria, enhancing decision-making.
 
 Risk Budgeting Module: Effectively manage portfolio risk through intelligent risk budgeting practices.
 
