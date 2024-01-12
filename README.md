@@ -9,7 +9,7 @@ Data Downloading Module: Flar_Data_Source_Kit.py - Access financial market data 
 
 Technical Indicators Module: Technical_Indicators.py - Generate tradings signal based on popular technical analysis indicators.
 
-Quantitative Functions Module: Utilize a suite of quantitative functions for in-depth analysis and actionable insights.
+Quantitative Functions Module: Quant_Functions.py - Utilize a suite of quantitative functions for in-depth analysis and actionable insights.
 
 Backtesting Module: Simulate and evaluate trading strategy performance using historical data, refining investment approaches.
 
