@@ -13,7 +13,7 @@ Quantitative Functions Module: Quant_Functions.py - Utilize a suite of quantitat
 
 Backtesting Module: Backtest.py - Simulate and evaluate trading strategy performance using historical data, refining investment approaches.
 
-Visualization Module: Create graphs to help you analize market data and investment strategies.
+Visualization Module: Visuals.py + helper.py - Create graphs to help you analize market data and investment strategies.
 
 Portfolio Construction Module: Optimize portfolios based on specified criteria, enhancing decision-making.
 
