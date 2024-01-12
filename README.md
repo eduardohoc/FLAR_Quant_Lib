@@ -15,7 +15,7 @@ Backtesting Module: Simulate and evaluate trading strategy performance using his
 
 Visualization Module: Create graphs to help you analize market data and investment strategies.
 
-Portfolio Construction Module: Optimize portfolio asset allocation based on specified criteria, enhancing decision-making.
+Portfolio Construction Module: Optimize portfolios based on specified criteria, enhancing decision-making.
 
 Risk Budgeting Module: Effectively manage portfolio risk through intelligent risk budgeting practices.
 
