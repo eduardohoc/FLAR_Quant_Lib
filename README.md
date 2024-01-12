@@ -11,7 +11,7 @@ Technical Indicators Module: Technical_Indicators.py - Generate tradings signal 
 
 Quantitative Functions Module: Quant_Functions.py - Utilize a suite of quantitative functions for in-depth analysis and actionable insights.
 
-Backtesting Module: Simulate and evaluate trading strategy performance using historical data, refining investment approaches.
+Backtesting Module: Backtest.py - Simulate and evaluate trading strategy performance using historical data, refining investment approaches.
 
 Visualization Module: Create graphs to help you analize market data and investment strategies.
 
