@@ -1,5 +1,5 @@
 # FLAR_Quant_Lib
-FLAR_Quant_Lib: Quantitative Finance Toolkit for FLAR (Developmental Repository) - prueba
+FLAR_Quant_Lib: Quantitative Finance Toolkit for FLAR (Developmental Repository)
 
 FLARQuantLib is a dynamic Quantitative Finance Toolkit crafted for the evolving needs of the Latin American Reserve Fund (FLAR). Currently residing as a developmental repository, this project is poised to grow into a comprehensive Python library, purpose-built to empower FLAR's trading desk and portfolio management department.
 
